@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           <code>I miss you pappaa....
-            I want to fuck you</code>
+            I want to fuck you pappaa</code>
         </p>
         <a
           className="App-link"
